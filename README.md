@@ -25,7 +25,7 @@ Thanks for joining us on the journey.
 a.	Some are established: lower division course without prerequisites other than exemption from Learning Support; open to students from any program of study
 b.	Others are variable: modality; class size; life situation of the learners; background of the instructor
 
-##> WORKSHEET 1 
+> WORKSHEET 1 
 Complete the Step 1 worksheet on situational factors to consider via the Google Form available here: https://forms.gle/xCpJWoUAQFLuqktQ9 
 
 2.  Learning Outcomes
