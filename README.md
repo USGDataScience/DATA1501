@@ -1,7 +1,7 @@
 # DATA1501
 Introduction to Data Science Course Design
-##DATA 1501 – Introduction to Data Science
-###Course Development Plan
+## DATA 1501 – Introduction to Data Science
+### Course Development Plan
 
 The course development process for DATA 1501 will adapt a backwards design approach and collaborative project processes to build a shared resource. The result of this process will be a model course for Introduction to Data Science, including course outline, schedule, learning strategies, assessments, assignments, and resources. This model course is not required for adopting DATA 1501 for your institution but will hopefully provide a foundation for creating a course that supports students’ learning and engaging practice. 
 
@@ -18,7 +18,7 @@ Thanks for joining us on the journey.
 
 
  
-##Overview for Stage 1
+## Overview for Stage 1
 1.  Situational Factors
 1.	Review “A Self-Directed Guide to Designing Courses for Significant Learning.” by Dee Fink: https://www.deefinkandassociates.com/GuidetoCourseDesignAug05.pdf 
 2.	Reflect on situational factors 
