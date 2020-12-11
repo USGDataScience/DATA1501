@@ -17,8 +17,9 @@ In adopting this process, we ask that you do some of the development work on you
 Sounds like a lot? This process may feel like a big task for a course that isn’t even in the catalog, much less in anyone’s degree map, but we hope it will result in a course that is both highly flexible and extremely well designed. We also hope that by creating a community around designing this course, we will be able to share some great ideas about instructional design and data science across the system. 
 
 Timeline
-| December 12 – January 13 | Stage 1 development work |
+| Date | Activity/Event |
 | :--------------- | :-------------|
+| December 12 – January 13 | Stage 1 development work |
 |January 21 |	Virtual meeting to review Stage 1 results and plan for stage 2 |
 | January 22-February 10	| Stage 2 development work |
 | February 16	 | Virtual meeting to review Stage 2 results |
